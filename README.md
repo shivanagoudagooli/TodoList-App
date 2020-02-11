@@ -1,1 +1,1 @@
-life is all about hard work
+Angular Application
